@@ -1,7 +1,7 @@
 # Frontend Notes
 
-This is a learning repository for understanding frontend concepts from zero.
+This is a learning repository for understanding frontend concepts from zero to intermediate.
 
 ## 📚 Table of Contents
 
-- Day 1 - Introduction to React
+- 01 - Internet & Web Basics
