@@ -1,5 +1,7 @@
 # HTML
 
+> **Purpose:** Quick revision and understanding of HTML.
+
 ## 1. HTML
 
 ### Definition

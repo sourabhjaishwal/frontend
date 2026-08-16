@@ -2,8 +2,6 @@
 
 > **Purpose:** Quick revision and understanding of how the Internet and Web work.
 
----
-
 # 1. History of the Web
 
 The Web has evolved from simple, read-only websites into interactive platforms and, potentially, decentralized applications.

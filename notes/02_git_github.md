@@ -1,4 +1,7 @@
 # Git & GitHub
+
+> **Purpose:** Quick revision of Git & GitHub.
+
 ## 1. Git
 
 ### Definition
